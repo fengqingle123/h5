@@ -1,0 +1,41 @@
+//进入数据库
+   mysql -h地址 -u用户名 -p密码
+//查看数据库
+  show databases；
+//选择数据库
+ use 数据库名
+//查看表
+show tables;
+//查看表结构
+ desc student；
+//创建表
+create table 表名(字段1 int(11) primary key auto_increment,字段2 varchar(255),字段3 varchar(255),字段4 varchar(255));
+create table demo(id int(11) primary key auto_increment,name varchar(255),age varchar(255),sex varchar(255));
+-----------------字段不加引号
+
+
+
+//创建库
+create database 数据库名；
+//删除库
+drop database 数据库名；
+//删除表
+drop table 表名；
+
+
+
+
+//查询
+select * from 表名；
+//添加字段
+insert into student （字段1，字段2，字段3） value （“字段1值”，“字段2值”，“字段3值”）；
+
+前面的字段不加引号
+
+
+
+//修改字段
+UPDATE `数据库名`.`表名` SET `字段` = '字段值' WHERE `student`.`id` = 1;
+//删除字段
+delete from 表名 where id=“1”；
+

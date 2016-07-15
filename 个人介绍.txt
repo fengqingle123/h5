@@ -1,0 +1,59 @@
+冯庆乐：一个在前端路上默默前行的人.
+格言：上帝只救自救的人。
+
+
+
+adobe(ps+ai)    div+css(css3+less+bootstrap)    js/jquery/(transition.js/move.js/fullPage.js)
+
+
+ui设计  静态网页 整站 游戏
+
+
+执行力
+代码量/开发能力
+沟通能力
+协调能力
+
+
+
+移动 银泰 天猫 网易 百度舆情 苹果 沙发  苏宁易购
+
+
+打字游戏   扫雷  斗地主 下雨   
+
+
+姓名  联系电话  邮箱 qq（二维码）  微信   
+
+
+dreamvive    webjl openjl 图形化操作界面（window）   命令行界面  
+
+
+dir命令
+ 
+
+windows 系统   linux系统
+
+
+
+h5：功能   技术
+css3与h5为移动端而生
+
+软件基数版本不稳定
+
+
+
+
+
+
+
+flash     缴费   耗费资源    操作flash动画---actionscript
+
+
+
+
+
+<!--
+    测试程序的运行时间
+    交互：用户可以直接参与的事件
+    -->
+
